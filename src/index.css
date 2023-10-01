@@ -83,10 +83,10 @@ ol li{
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #8566aa;
+  background-color: #ebe8ef;
   border-radius: 15px;
   margin: 0 15px 0 35px;
-  color: aliceblue;
+  color: rgb(184, 198, 226);
   box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
 }
 
